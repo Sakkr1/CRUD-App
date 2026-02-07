@@ -28,11 +28,6 @@ This project is created to practice real-world frontend development and RESTful 
 
 ---
 
-## 📁 Project Structure (Example)
-
-
----
-
 ## ⚙️ How to Run the Project
 
 ### 1️⃣ Clone the repository
