@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "157e",
+      "title": "asd",
+      "price": "212",
+      "category": "das21"
+    },
+    {
+      "id": "28d0",
+      "title": "iphone 13 pro serablue",
+      "price": "2000",
+      "category": "Mobile Phones"
+    }
+  ]
+}
