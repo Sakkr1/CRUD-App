@@ -32,7 +32,7 @@ This project is created to practice real-world frontend development and RESTful 
 
 ### 1️⃣ Clone the repository
 in terminal:
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/Sakkr1/CRUD-App.git
 cd REPO_NAME
 
 ### 2️⃣ Install dependencies
