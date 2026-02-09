@@ -64,7 +64,7 @@ npm run start
 
 👨‍💻 Author
 
-Mostafa Abdallah
-Frontend Developer (React.js)
-GitHub: https://github.com/Sakkr1
+ - Mostafa Abdallah
+ - Frontend Developer (React.js)
+ - GitHub: https://github.com/Sakkr1
 
