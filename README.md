@@ -32,16 +32,16 @@ This project is created to practice real-world frontend development and RESTful 
 
 ### 1️⃣ Clone the repository
 in terminal:
-git clone https://github.com/Sakkr1/CRUD-App.git
-cd REPO_NAME
+ - git clone https://github.com/Sakkr1/CRUD-App.git
+ - cd CRUD-App
 
 ### 2️⃣ Install dependencies
 in terminal:
-npm install
+ - npm install
 
 ### 3️⃣ Install json-server (if not installed globally)
 in terminal:
-npm install -g json-server
+ - npm install -g json-server
 
 ### 4️⃣ Create db.json (next to package.json file)
 and add in it :
@@ -51,20 +51,20 @@ and add in it :
 
 ### 5️⃣ Run json-server
 in terminal:
-json-server --watch db.json --port 5000
+ - json-server --watch db.json --port 5000
 
-API will be available at:
+ - API will be available at:
 http://localhost:5000/products
 
-The port(5000) may change 
+ -- The port(5000) may change 
 
 ### 6️⃣ Run the React application
 in terminal:
-npm run start
+ - npm run start
 
 👨‍💻 Author
 
- - Mostafa Abdallah
- - Frontend Developer (React.js)
- - GitHub: https://github.com/Sakkr1
+Mostafa Abdallah   
+Frontend Developer (React.js)   
+GitHub: https://github.com/Sakkr1   
 
